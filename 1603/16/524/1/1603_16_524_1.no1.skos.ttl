@@ -3,6 +3,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 
 <urn:mdciii:1603:16()>
     a skos:ConceptScheme ;
@@ -25,35 +26,42 @@
 <urn:mdciii:1603:16:524:1:1>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:524:1:1" ;
-    skos:prefLabel "Province 1"@eng-Latn .
+    skos:prefLabel "Province 1"@eng-Latn ;
+    wdata:q7200235 "NP01" .
 
 <urn:mdciii:1603:16:524:1:2>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:524:1:2" ;
-    skos:prefLabel "Province 2"@eng-Latn .
+    skos:prefLabel "Province 2"@eng-Latn ;
+    wdata:q7200235 "NP02" .
 
 <urn:mdciii:1603:16:524:1:3>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:524:1:3" ;
-    skos:prefLabel "Bagmati"@eng-Latn .
+    skos:prefLabel "Bagmati"@eng-Latn ;
+    wdata:q7200235 "NP03" .
 
 <urn:mdciii:1603:16:524:1:4>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:524:1:4" ;
-    skos:prefLabel "Gandaki"@eng-Latn .
+    skos:prefLabel "Gandaki"@eng-Latn ;
+    wdata:q7200235 "NP04" .
 
 <urn:mdciii:1603:16:524:1:5>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:524:1:5" ;
-    skos:prefLabel "Lumbini"@eng-Latn .
+    skos:prefLabel "Lumbini"@eng-Latn ;
+    wdata:q7200235 "NP05" .
 
 <urn:mdciii:1603:16:524:1:6>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:524:1:6" ;
-    skos:prefLabel "Karnali"@eng-Latn .
+    skos:prefLabel "Karnali"@eng-Latn ;
+    wdata:q7200235 "NP06" .
 
 <urn:mdciii:1603:16:524:1:7>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:524:1:7" ;
-    skos:prefLabel "Sudurpaschim"@eng-Latn .
+    skos:prefLabel "Sudurpaschim"@eng-Latn ;
+    wdata:q7200235 "NP07" .
 
