@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:524:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:524:0> ;
     skos:prefLabel "Province 1"@eng-Latn ;
-    wdata:q7200235 "NP01" ;
+    wdata:Q7200235 "NP01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -51,7 +51,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:524:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:524:0> ;
     skos:prefLabel "Province 2"@eng-Latn ;
-    wdata:q7200235 "NP02" ;
+    wdata:Q7200235 "NP02" ;
 .
 
 <urn:mdciii:1603:16:524:1:3>
@@ -62,7 +62,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:524:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:524:0> ;
     skos:prefLabel "Bagmati"@eng-Latn ;
-    wdata:q7200235 "NP03" ;
+    wdata:Q7200235 "NP03" ;
 .
 
 <urn:mdciii:1603:16:524:1:4>
@@ -73,7 +73,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:524:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:524:0> ;
     skos:prefLabel "Gandaki"@eng-Latn ;
-    wdata:q7200235 "NP04" ;
+    wdata:Q7200235 "NP04" ;
 .
 
 <urn:mdciii:1603:16:524:1:5>
@@ -84,7 +84,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:524:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:524:0> ;
     skos:prefLabel "Lumbini"@eng-Latn ;
-    wdata:q7200235 "NP05" ;
+    wdata:Q7200235 "NP05" ;
 .
 
 <urn:mdciii:1603:16:524:1:6>
@@ -95,7 +95,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:524:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:524:0> ;
     skos:prefLabel "Karnali"@eng-Latn ;
-    wdata:q7200235 "NP06" ;
+    wdata:Q7200235 "NP06" ;
 .
 
 <urn:mdciii:1603:16:524:1:7>
@@ -106,6 +106,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:524:1:7" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:524:0> ;
     skos:prefLabel "Sudurpaschim"@eng-Latn ;
-    wdata:q7200235 "NP07" ;
+    wdata:Q7200235 "NP07" ;
 .
 
